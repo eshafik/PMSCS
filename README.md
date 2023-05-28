@@ -12,7 +12,7 @@
 ### Step-2: 
 
 #### After fork this git repository you will get it in your github account. Then follow the following steps
-- ```git clone https://github.com/eshafik/PMSCS.git```
+- ```git clone https://github.com/<your-username>/PMSCS.git```
 - ```git checkout -b your-branch-name```
 - Update question bank as your need from your laptop
 - `git add .`
